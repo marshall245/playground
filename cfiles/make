@@ -1,0 +1,1 @@
+gcc ./src/base/memory_mat.c ./src/base/genmatrices.c ./src/base/views.c ./src/base/algebra.c ./test/test_views.c -I./src/base -o./build/test_views
